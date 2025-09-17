@@ -1,6 +1,7 @@
 body {
     background-color: hsl(206, 94%, 87%);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -85,4 +86,5 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%);
     text-decoration: none;
+
 }
